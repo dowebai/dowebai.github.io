@@ -11,19 +11,15 @@ Notepad++是一款广受程序员和开发者喜爱的文本编辑器，以其�
 
 ## 官方下载地址
 
-Notepad++的官方下载地址是其官网提供的，以下是官网链接：
-
-<https://notepad-plus-plus.org/downloads/>
-
-如果您无法访问官网，您可以通过GitHub来下载Notepad++的最新版本：
+由于Notepad++官网打不开，导致我们无法直接从官网下载，但实际上官网提供的下载地址是Github的。因此，你可以直接通过GitHub来下载Notepad++的最新版本：
 
 <https://github.com/notepad-plus-plus/notepad-plus-plus/releases>
 
-如果你无法访问Github，或者打开很慢，下载速度也很慢，那么还可以从第三方网站下载：
+如果你无法访问Github，或者打开很慢，下载速度也很慢，那么可以通过网盘下载：<https://pan.xunlei.com/s/VOWUvah1OsYEreEo_YkRMbK5A1?pwd=n653>
 
-推荐使用极客应用下载 <https://www.gy328.com/app/notepadplus/> 这里的下载地址同样是github的，区别是它对github进行了加速。
+这里也是从Github下载下来的，都是官方的软件包。
 
-以上三个渠道下载的软件都能保证是官方正版。
+以上渠道下载的软件都能保证是官方正版。
 
 ![Notepad++](https://s0.wp.com/mshots/v1/https://notepad-plus-plus.org/assets/images/notepad4ever.png "Notepad++")
 
